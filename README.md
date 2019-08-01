@@ -1,4 +1,4 @@
-# FileSync
+# FileSync (WIP)
 A file syncing script written in Python using the Pysftp library.
 
 ### TODO
